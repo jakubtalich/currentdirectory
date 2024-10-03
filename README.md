@@ -1,7 +1,7 @@
 # currentdirectory
 Get the 📂 current directory, 🪐 hostname and 🌐 IP address
 
-Written in Nim 👑
+Written in Nim 👑 (tested version: 2.2.0)
 
 - **Supported OSes:** Linux 🐧, FreeBSD 😈, Solaris ☀️
 
