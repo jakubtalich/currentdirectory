@@ -3,7 +3,7 @@ Get the 📂 current directory, 🪐 hostname and 🌐 IP address
 
 Written in Nim 👑 (tested version: 2.2.0)
 
-- **Supported OSes:** Linux 🐧, FreeBSD 😈, Solaris ☀️
+- **Supported OSes:** Linux 🐧, FreeBSD 😈, Illumos/Solaris ☀️
 
 - **🔨 Building:**
   `$ cd src/ && nim c -d:release currentdirectory.nim`
