@@ -1,0 +1,11 @@
+👉 I. Name
+currentdirectory
+
+👉 II. Description
+This program prints the current directory, hostname and IP address.
+
+👉 III. Usage:
+To print the current directory, hostname and IP address: currentdirectory
+To view this help: currentdirectory --help
+To view the version of this program: currentdirectory --version
+To view the license: currentdirectory --license
