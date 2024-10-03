@@ -12,7 +12,7 @@ else:
 
 proc printHostname*(): Option[TaintedString] =
   runnableExamples:
-    import hostname, options
+    import printhostname, options
     let hostname1 = hostname().get
     let hostname2 = hostname().get(otherwise = TaintedString("example.com"))
 
