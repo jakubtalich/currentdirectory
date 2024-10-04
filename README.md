@@ -16,3 +16,7 @@ Written in Nim 👑 (tested version: 2.2.0)
 
  - **🎂 Version history:**
    - **1.0** (October 3 2024): initial release
+
+- **Screenshot:**
+
+![](screenshots/screenshotv10.png)
